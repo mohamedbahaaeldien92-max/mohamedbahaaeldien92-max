@@ -1,92 +1,85 @@
-<div align="center">
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" />
-<br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%" />
-
-</div>
-
----
-
 # 👋 Hi, I'm Mohamed Bahaa Eldien
-## Data Analyst | Healthcare & Business Analytics  
-**Power BI | SQL | Excel | DAX**
+## Data Analyst | Healthcare & Business Analytics | Power BI | SQL | Excel
 
-I’m a **Data Analyst** with a strong foundation in **data cleaning, analysis, and visualization**.
+I’m a **Data Analyst** with a strong foundation in **data cleaning, analysis, and visualization** using **Excel, Power BI, SQL, and DAX**.
 
 I transitioned into data analytics after:
 - 🏥 **14+ years in community pharmacy leadership**
 - 🏨 **4 years as a Clinical Hospital Pharmacy Manager**
 
-This unique background allows me to understand **healthcare data, operational workflows, and real business decision-making**.
+This background gives me a unique edge:  
+I understand **healthcare operations, clinical workflows, and how real business decisions are made**.
 
 ---
 
 ## 💡 What I Do
-I help organizations transform raw data into **clear, actionable insights** across:
+I help organizations turn raw, scattered data into **clear visual stories that drive decisions** across:
 
-- Healthcare Analytics  
-- HR Analytics  
-- Supply Chain  
-- Sales & Marketing  
+- Healthcare
+- HR Analytics
+- Supply Chain
+- Sales & Marketing
 
 > I don’t just build dashboards — **I build clarity**.
 
 ---
 
 ## 🏥 Healthcare Analytics Advantage
-- Deep understanding of medical & clinical data  
-- KPI-driven performance analysis  
-- Operational optimization in pharmacy & hospital settings  
+My healthcare background enables me to:
+- Understand medical & clinical data deeply
+- Translate KPIs into operational actions
+- Optimize performance in clinical and pharmacy settings
+
+Use cases I focus on:
+- Medication & inventory analysis  
+- Hospital & pharmacy performance metrics  
+- Cost control & operational efficiency  
 
 ---
 
-## 🛠️ Tools & Skills
+## 🛠️ Technical Skills
 
-### 📊 Data Analytics
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-003B57?style=flat)
+### 📊 Data & BI
+- **Power BI** – Data modeling, interactive dashboards, advanced DAX
+- **SQL** – Data cleaning, transformation, performance tuning
+- **Excel** – Advanced formulas, automation, dashboards
 
 ### 🧠 Business Skills
-- Stakeholder Communication  
-- KPI Design  
-- Data Storytelling  
+- Stakeholder communication
+- KPI design & storytelling
+- Translating insights into action
 
 ---
 
-## 📈 Analytics Projects Focus
+## 📈 Projects & Analytics Focus
+Examples of problems I solve:
 - Identifying **loss drivers despite strong revenue**
-- Pricing vs cost misalignment analysis
-- Inventory & stock optimization
-- Sales & operational KPI dashboards
+- Analyzing **pricing vs cost misalignment**
+- Optimizing **inventory & stock levels**
+- Monitoring **sales & operational KPIs**
 
-Each project answers:  
+Each project answers:
 **What happened? → Why? → What should we do next?**
-
----
-
-## 📊 GitHub Stats
-<div align="center">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32%">
-</div>
 
 ---
 
 ## 🎯 Currently Seeking
 Opportunities in:
-- Data Analyst  
-- Healthcare / Clinical Analytics  
-- Business Intelligence  
+- Data Analyst
+- Healthcare / Clinical Analytics
+- Business Intelligence
+
+Where I can combine:
+**Medical knowledge + leadership + data analytics**  
+to deliver real business impact.
 
 ---
 
-## 📫 Contact
+## 📫 Contact Me
 - 📧 Email: **mohamedbahaaeldien92@gmail.com**
-- 💼 LinkedIn: *(Add your LinkedIn link)*
+- 💼 LinkedIn: *(Add your LinkedIn link here)*
+- 📊 Portfolio: *(Power BI / GitHub projects)*
 
 ---
 
-⭐ *Data creates value only when it leads to better decisions.*
+⭐ *Data is powerful only when it leads to better decisions.*
