@@ -77,8 +77,10 @@ to deliver real business impact.
 
 ## 📫 Contact Me
 - 📧 Email: **mohamedbahaaeldien92@gmail.com**
-- 💼 LinkedIn: *(Add your LinkedIn link here)*
-- 📊 Portfolio: *(Power BI / GitHub projects)*
+- 💼 LinkedIn: *www.linkedin.com/in/mohamed-bahaa-eldien-70612514b
+
+*
+- 📊 Portfolio: *https://mohamed-bahaa.netlify.app/*
 
 ---
 
